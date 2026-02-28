@@ -16,7 +16,7 @@ For custom building, or hiring, contact: joronimoamanya@gmail.com or call +25679
 
 ## How can I edit this code?
 
-There are several ways of editing your application.
+There are several ways of editing this application.
 
 **Use your preferred IDE**
 
