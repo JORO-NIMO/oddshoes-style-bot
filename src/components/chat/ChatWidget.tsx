@@ -9,7 +9,7 @@ import { streamChat, type ChatMessage } from "@/lib/chat-stream";
 const WELCOME: ChatMessage = {
   role: "assistant",
   content:
-    "👋 Welcome! I'm your AI co-pilot. Ask me anything about startups, tech, or creative ideas — let's build something amazing together!",
+    "👋 Welcome! I'm OddShoeMaker. Ask me anything about startups, tech, or creative ideas — let's build something amazing together!",
 };
 
 interface ChatWidgetProps {
@@ -103,7 +103,7 @@ const ChatWidget = ({ fullPage }: ChatWidgetProps) => {
             OS
           </div>
           <div>
-            <p className="text-lg font-semibold text-chat-foreground">AI Co-Pilot</p>
+            <p className="text-lg font-semibold text-chat-foreground">OddShoeMaker</p>
             <p className="text-sm text-muted-foreground">Here to help you create</p>
           </div>
         </div>
