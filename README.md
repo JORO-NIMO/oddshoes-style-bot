@@ -3,19 +3,16 @@
 
 **Live Project:** https://oddshoemakerblueox.store/
 
-This project was built for the OddShoes Developer Hackathon, held on 28th Feb, 2026, at the Blue Ox Kampus, Junction Apartments, Mile 4, Ibanda Road, Mbarara, Uganda. 32 teams are presenting, and the winner takes home $100,000 and a trip to Nairobi!
+This project was built for the OddShoes Developer Hackathon, held on 28th Feb, 2026, at the Blue Ox Kampus, Junction Apartments, Mile 4, Ibanda Road, Mbarara, Uganda. 32 teams are presenting, and the winner takes home Ugx 100,000 and a trip to Nairobi!
 
-For funding, custom building, or hiring, contact: joronimoamanya@gmail.com or call +256791219799
+For custom building, or hiring, contact: joronimoamanya@gmail.com or call +256791219799
 
 **Built for:** https://oddshoes.dev
 
 ---
 
-# Welcome to your project
+# Welcome to OddShoeMaker AI agent
 
-## Project info
-
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
 
 ## How can I edit this code?
 
@@ -27,20 +24,6 @@ If you want to work locally using your own IDE, you can clone this repo and push
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
 ```
 
 **Edit a file directly in GitHub**
@@ -68,7 +51,6 @@ This project is built with:
 - Tailwind CSS
 
 ## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+You can build this in Vercel, Netlify(For Front eND)
 
 
