@@ -9,7 +9,7 @@ import { streamChat, type ChatMessage } from "@/lib/chat-stream";
 const WELCOME: ChatMessage = {
   role: "assistant",
   content:
-    "Hey there! 👋 I'm the OddShoes assistant. Whether you've got a startup idea burning or just curious about what we do — I'm here. What's on your mind?",
+    "👋 Welcome! I'm your AI co-pilot. Ask me anything about startups, tech, or creative ideas — let's build something amazing together!",
 };
 
 const ChatWidget = () => {
@@ -125,8 +125,8 @@ const ChatWidget = () => {
                   OS
                 </div>
                 <div>
-                  <p className="text-sm font-semibold text-chat-foreground">OddShoes</p>
-                  <p className="text-xs text-muted-foreground">Your startup co-pilot</p>
+                  <p className="text-sm font-semibold text-chat-foreground">AI Co-Pilot</p>
+                  <p className="text-xs text-muted-foreground">Here to help you create</p>
                 </div>
               </div>
               <button
@@ -164,7 +164,7 @@ const ChatWidget = () => {
                 ref={inputRef}
                 value={input}
                 onChange={(e) => setInput(e.target.value)}
-                placeholder="Ask anything about OddShoes…"
+                placeholder="Ask me anything…"
                 disabled={isLoading}
                 className="flex-1 rounded-xl bg-chat-input-bg px-4 py-2.5 text-sm text-chat-foreground placeholder:text-muted-foreground outline-none focus:ring-1 focus:ring-primary disabled:opacity-50"
               />
