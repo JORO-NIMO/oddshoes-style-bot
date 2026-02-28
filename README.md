@@ -1,3 +1,16 @@
+
+# OddShoeMaker – Hackathon Project
+
+**Live Project:** https://oddshoemakerblueox.store/
+
+This project was built for the OddShoes Developer Hackathon, held on 28th Feb, 2026, at the Blue Ox Kampus, Junction Apartments, Mile 4, Ibanda Road, Mbarara, Uganda. 32 teams are presenting, and the winner takes home $100,000 and a trip to Nairobi!
+
+For funding, custom building, or hiring, contact: joronimoamanya@gmal.com or call +256791219799
+
+**Built for:** https://oddshoes.dev
+
+---
+
 # Welcome to your project
 
 ## Project info
